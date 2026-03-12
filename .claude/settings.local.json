@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"D:\\\\prj\\\\python\\\\perform-python-vs-rust\\\\rust-basis\" && mkdir -p src/config src/websocket src/calculator src/queue src/ui src/metrics)"
+    ]
+  }
+}
